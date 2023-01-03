@@ -11,3 +11,6 @@ a{
   a:hover{
     background-color: gold;
   }
+  body {
+    background-color: pink;
+  }
